@@ -1,0 +1,529 @@
+
+失望 True	不会 True	
+不错 True	还 True	才能 True	相当 True	应该 True	世界 True	支持 True	
+值得 True	拥有 True	很 True	性能 True	不 True	性价比 True	产品 True	高 True	手机 True	都 True	优秀 True	？ True	
+有点 True	！ True	流畅 True	好 True	很 True	漂亮 True	系统 True	支持 True	解决 True	手机 True	价格 True	都 True	够 True	
+非常 True	强悍 True	很 True	性能 True	不 True	买 True	后悔 True	比较 True	
+总体 True	不错 True	一款 True	更 True	来说 True	手机 True	价格 True	好 True	
+非常 True	入手 True	做工 True	系统 True	主流 True	棒 True	还 True	不 True	价格 True	后悔 True	
+值得 True	入手 True	
+！ True	值得 True	
+过时 True	已经 True	不要 True	入手 True	忍受 True	质量 True	还 True	手机 True	价格 True	
+严重 True	声音 True	有人 True	信号 True	系统 True	问题 True	通话 True	感觉 True	还 True	不错 True	双核 True	
+！ True	不错 True	支持 True	差 True	选择 True	买 True	来说 True	小米 True	不会 True	
+很 True	系统 True	水印 True	问题 True	买 True	认为 True	？ True	产品 True	卖 True	喜欢 True	屏幕 True	很卡 True	小米 True	去 True	都 True	
+总体 True	很 True	不错 True	好 True	
+故意 True	很 True	不 True	信号 True	不好 True	小米 True	差点 True	不错 True	四核 True	flyme True	差 True	都 True	买 True	想 True	喜欢 True	贴 True	5 True	死 True	好 True	
+问题 True	买 True	质量 True	不 True	绝对 True	后悔 True	
+总体 True	！ True	售后 True	很 True	质量 True	来说 True	期待 True	不错 True	~ True	
+... True	个人 True	很 True	才 True	认为 True	感觉 True	手机 True	不 True	小米 True	后悔 True	总体 True	三星 True	入手 True	不错 True	一周 True	机 True	好 True	
+大屏 True	英寸 True	期待 True	梦想 True	！ True	
+买 True	下次 True	更 True	还 True	力 True	都 True	
+做到 True	再 True	不 True	差 True	买 True	可能 True	很 True	手机 True	不错 True	上市 True	后悔 True	
+智能机 True	需要 True	售后 True	适合 True	再 True	问题 True	不买 True	感觉 True	手机 True	不 True	价格 True	小米 True	总体 True	恶心 True	太 True	满意 True	修 True	买 True	厂家 True	喜欢 True	产品 True	去 True	都 True	
+爱 True	不错 True	真心 True	好 True	
+超值 True	漂亮 True	四核 True	绝对 True	买 True	
+！ True	怎么 True	一开 True	个人 True	不 True	支持 True	问题 True	认为 True	感觉 True	不能 True	？ True	有点 True	不错 True	5 True	遗憾 True	机 True	都 True	不会 True	
+！ True	方面 True	支持 True	担心 True	买 True	完全 True	产品 True	手机 True	都 True	
+值得 True	感觉 True	入手 True	一款 True	很 True	好 True	
+非常 True	四核 True	游戏 True	不怎么样 True	前置 True	系统 True	给力 True	丶 True	都 True	摄像头 True	
+！ True	很 True	不 True	世界 True	苹果 True	
+不能 True	很 True	优秀 True	支持 True	
+值得 True	神机 True	一流 True	拥有 True	很 True	支持 True	一款 True	设计 True	手机 True	不错 True	
+值得 True	划算 True	游戏 True	入手 True	机身 True	很 True	再 True	习惯 True	问题 True	解决 True	价格 True	大型 True	其实 True	目前 True	
+手机 True	不错 True	买 True	
+总体 True	超值 True	价格 True	
+！ True	手机 True	怀疑 True	已经 True	支持 True	
+选择 True	小米 True	
+只好 True	起来 True	... True	感觉 True	使用 True	手机 True	变成 True	劝 True	双核 True	完美 True	平时 True	有时 True	选择 True	买 True	半天 True	郁闷 True	不会 True	机 True	一款 True	其实 True	~ True	
+非常 True	入手 True	做工 True	系统 True	主流 True	棒 True	还 True	不 True	价格 True	后悔 True	
+相当 True	以后 True	很 True	四核 True	不 True	喜欢 True	出色 True	卖 True	手机 True	已经 True	双核 True	更 True	
+值得 True	入手 True	
+性价比 True	手机 True	不错 True	高 True	
+非常 True	值得 True	神机 True	一款 True	入手 True	
+机 True	不要 True	性价比 True	很 True	四核 True	支持 True	超值 True	已经 True	
+买 True	很 True	性价比 True	给力 True	相当 True	高 True	机 True	小米 True	膜 True	双核 True	
+需要 True	很 True	方面 True	不 True	觉得 True	玩个 True	信号 True	力 True	够 True	非常 True	大 True	主流 True	5 True	智能机 True	卡 True	几天 True	流畅 True	很棒 True	再 True	才 True	完全 True	问题 True	感觉 True	软件 True	优化 True	满格 True	信 True	有人 True	好 True	烫 True	系统 True	满意 True	差 True	没法 True	flyme True	号 True	操作 True	屏幕 True	都 True	比较 True	
+很 True	满足 True	已经 True	其实 True	
+非常 True	神机 True	很 True	性能 True	支持 True	都 True	UI True	缺点 True	喜欢 True	设计 True	好 True	觉得 True	
+以后 True	4.0 True	入手 True	系统 True	依然 True	不 True	后悔 True	
+！ True	4.0 True	入手 True	完美 True	月 True	flyme True	手感 True	买 True	想 True	很 True	手机 True	不错 True	比较 True	
+总体 True	非常 True	神机 True	入手 True	强悍 True	精致 True	值得 True	来说 True	！ True	~ True	
+值得 True	神机 True	拥有 True	
+不 True	个人 True	
+不错 True	
+电话 True	只能 True	分 True	不 True	觉得 True	还 True	游戏 True	大 True	好 True	满意 True	买 True	5 True	充电 True	都 True	比较 True	上面 True	
+问题 True	存在 True	小米 True	价位 True	点评 True	觉得 True	花 True	不错 True	双核 True	其实 True	手机 True	机 True	都 True	出色 True	最好 True	
+！ True	支持 True	
+！ True	值得 True	支持 True	~ True	
+！ True	爱 True	好 True	手机 True	绝对 True	网络 True	支持 True	
+总体 True	值得 True	几天 True	入手 True	还 True	非常 True	不错 True	
+手机 True	支持 True	
+！ True	支持 True	
+电话 True	开 True	通病 True	方面 True	不 True	通话 True	使用 True	不能 True	考虑 True	已经 True	M9 True	真 True	值得 True	价格 True	游戏 True	买 True	话 True	绝对 True	续航 True	很 True	机 True	信 True	才 True	习惯 True	支持 True	问题 True	感觉 True	还 True	影响 True	有时候 True	怎么 True	以后 True	卡 True	超值 True	想 True	今天 True	号 True	打电话 True	好 True	烫 True	
+！ True	很 True	支持 True	买 True	觉得 True	实惠 True	手机 True	缺点 True	
+非常 True	做到 True	已经 True	不错 True	
+都 True	性能 True	系统 True	坏 True	维修 True	可能 True	不够 True	返厂 True	
+相当 True	更好 True	性价比 True	月 True	配置 True	不 True	买 True	棒 True	很 True	设计 True	已经 True	不错 True	再 True	
+值得 True	应该 True	拥有 True	支持 True	
+很 True	优秀 True	已经 True	一款 True	手机 True	
+非常 True	值得 True	机 True	入手 True	强大 True	~ True	
+总体 True	相当 True	不错 True	
+性价比 True	很 True	
+智能机 True	出色 True	个人 True	经典 True	应该 True	一款 True	支持 True	
+很 True	优秀 True	已经 True	一款 True	手机 True	
+做工 True	细节 True	精致 True	系统 True	还 True	
+缺点 True	
+提醒 True	值得 True	入手 True	手机 True	还 True	！ True	好 True	款 True	
+！ True	性价比 True	强大 True	售后 True	
+不 True	
+总体 True	！ True	毕竟 True	好好 True	不错 True	价位 True	不 True	买 True	使用 True	后悔 True	
+行货 True	拍照 True	流畅 True	效果 True	通病 True	优秀 True	所有 True	不 True	性价比 True	缺点 True	感觉 True	还 True	不能 True	手机 True	小米 True	有点 True	以后 True	拥有 True	买 True	好 True	选择 True	中兴 True	不会 True	机 True	都 True	运行 True	明白 True	
+值得 True	以下 True	配置 True	买 True	喜欢 True	手机 True	好 True	2500 True	
+还 True	可能 True	真心 True	觉得 True	差 True	
+！ True	
+！ True	拍照 True	流畅 True	1.2 True	再 True	双核 True	感觉 True	手机 True	真心 True	？ True	不要 True	都 True	买 True	却 True	郁闷 True	屏幕 True	机 True	好 True	其实 True	
+问题 True	M9 True	入手 True	很 True	不错 True	~ True	
+总体 True	来说 True	很 True	入手 True	值得 True	
+很 True	配置 True	支持 True	来说 True	真心 True	死 True	总体 True	值得 True	神机 True	都 True	实用 True	买 True	音质 True	操作 True	屏幕 True	好 True	
+性价比 True	小米 True	价位 True	配置 True	不 True	买 True	强 True	后悔 True	最好 True	
+神机 True	
+非常 True	好 True	不好 True	才 True	真心 True	觉得 True	
+总体 True	非常 True	目前 True	值得 True	很棒 True	未 True	觉得 True	买 True	暂时 True	棒 True	感觉 True	来说 True	还 True	！ True	
+支持 True	
+值得 True	拥有 True	不行 True	绝对 True	买 True	想 True	喜欢 True	山寨 True	牛 True	
+总体 True	来说 True	不错 True	质量 True	发货 True	
+总体 True	很 True	好 True	
+有点 True	买 True	个人感觉 True	确实 True	遗憾 True	后悔 True	
+惊喜 True	10 True	绝对 True	不 True	都 True	感觉 True	旗舰 True	还 True	去 True	后悔 True	~ True	
+爱 True	好 True	很 True	才 True	实用 True	苹果 True	软件 True	不 True	小米 True	不会 True	
+！ True	买 True	不 True	去 True	绝对 True	后悔 True	
+非常 True	需要 True	高端 True	坑爹 True	做工 True	配置 True	商务 True	别买 True	不错 True	真心 True	时尚 True	M9 True	缺点 True	
+梦想 True	4.3 True	寸 True	屏幕 True	应该 True	摄像头 True	最好 True	
+
+... True	
+！ True	左右 True	i9100 True	当然 True	确实 True	手机 True	价格 True	有点 True	不要 True	以下 True	完美 True	机皇 True	差 True	买 True	更 True	去 True	都 True	
+拍照 True	方面 True	已经 True	入手 True	
+唉 True	系统 True	失望 True	不 True	网 True	还 True	优化 True	非常 True	游戏 True	真想 True	续航 True	买 True	可能 True	去 True	都 True	比较 True	不会 True	
+很 True	喜欢 True	
+非常 True	性价比 True	！ True	好 True	入手 True	
+有点 True	行货 True	换 True	大 True	入手 True	机身 True	买 True	可能 True	屏幕 True	去 True	
+很 True	机 True	不错 True	一款 True	
+... True	首选 True	9100 True	买 True	音质 True	5 True	盖世 True	屏幕 True	去 True	上市 True	
+问 True	
+应该 True	不错 True	
+都 True	所有 True	秒杀 True	
+！ True	
+买 True	
+更 True	产品 True	完美 True	不 True	期待 True	世界 True	苹果 True	
+M9 True	
+售后 True	性能 True	强大 True	当然 True	9100 True	一款 True	不能 True	手机 True	总是 True	？ True	不要 True	不错 True	漂亮 True	选择 True	买 True	喜欢 True	水货 True	好 True	
+产品 True	起来 True	不要 True	觉得 True	支持 True	
+梦想 True	支持 True	
+很 True	强大 True	不错 True	
+！ True	首选 True	值得 True	
+！ True	不 True	世界 True	苹果 True	
+很 True	力 True	梦想 True	手机 True	
+M9 True	
+机 True	都 True	目前 True	售后 True	最好 True	
+价格 True	十分 True	很棒 True	很 True	喜欢 True	感觉 True	合适 True	手机 True	期待 True	机 True	不错 True	
+！ True	值得 True	支持 True	
+拥有 True	支持 True	
+值得 True	慢 True	入手 True	
+！ True	值得 True	入手 True	
+！ True	期待 True	
+实用 True	才 True	
+不要 True	很 True	不 True	习惯 True	问题 True	UI True	半天 True	信号 True	不好 True	操作 True	都 True	找 True	
+！ True	神机 True	
+更 True	上市 True	完美 True	才 True	不 True	支持 True	
+性价比 True	价格 True	更 True	满意 True	
+！ True	绝对 True	给力 True	出现 True	期待 True	
+很 True	手机 True	
+！ True	不 True	价位 True	系统 True	选择 True	更 True	很 True	还 True	优化 True	做工 True	
+有点 True	选择 True	下次 True	好好 True	觉得 True	网 True	买 True	质量 True	号 True	爹 True	不值 True	打电话 True	
+喜欢 True	个人 True	
+很 True	屏幕 True	以后 True	还 True	买 True	
+有点 True	花 True	好 True	四核 True	不 True	问题 True	买 True	音质 True	5 True	黑屏 True	后悔 True	第三方 True	双核 True	
+... True	好 True	苹果 True	
+！ True	想 True	很 True	方面 True	不 True	哈哈 True	信号 True	才能 True	手机 True	期待 True	应该 True	？ True	有点 True	产品 True	好 True	4.3 True	不行 True	难道 True	细节 True	买 True	主流 True	垃圾 True	号 True	月 True	寸 True	屏幕 True	不会 True	都 True	最好 True	
+还 True	值得 True	
+总体 True	不错 True	后悔 True	入手 True	感觉 True	
+值得 True	不要 True	手机 True	性价比 True	做工 True	绝对 True	首选 True	
+值得 True	细节 True	三星 True	入手 True	很 True	不 True	后悔 True	
+很强 True	！ True	厂家 True	确实 True	设计 True	想 True	出色 True	
+！ True	非常 True	喜欢 True	值得 True	完美 True	机 True	一款 True	
+只能 True	贴膜 True	需要 True	很 True	方面 True	不 True	电源 True	觉得 True	一块 True	盖 True	不能 True	手机 True	够 True	换 True	游戏 True	好 True	高 True	程序 True	买 True	别买 True	苹果 True	情况 True	都 True	烫 True	
+非常 True	买 True	信号 True	郁闷 True	不好 True	重启 True	出现 True	
+
+毕竟 True	更好 True	入手 True	方面 True	不 True	双核 True	
+才 True	应该 True	梦想 True	觉得 True	支持 True	
+非常 True	犹豫 True	死机 True	重启 True	几天 True	不 True	起来 True	不错 True	感觉 True	还 True	手机 True	总是 True	总体 True	不要 True	不了 True	失灵 True	好 True	入手 True	出现 True	爱 True	买 True	喜欢 True	死 True	后悔 True	其实 True	
+！ True	拍照 True	一款 True	过去 True	性价比 True	质量 True	软件 True	还 True	自带 True	不错 True	
+很 True	不错 True	
+中兴 True	大牌 True	支持 True	
+总体 True	还 True	！ True	
+总体 True	拍照 True	更好 True	电源 True	支持 True	性价比 True	还 True	买个 True	高 True	去 True	机 True	不错 True	
+四核 True	大 True	很 True	太 True	不 True	想 True	续航 True	买 True	可能 True	双核 True	更 True	完成 True	应该 True	上市 True	
+值得 True	有人 True	真心 True	水印 True	买 True	不错 True	觉得 True	手机 True	出现 True	鼓包 True	
+三星 True	手机 True	还 True	总是 True	？ True	用来 True	有点 True	以后 True	不要 True	性 True	大 True	都 True	没事 True	整个 True	处理器 True	充电 True	打电话 True	机 True	好 True	
+起来 True	入手 True	很 True	价位 True	配置 True	买 True	物有所值 True	款 True	失望 True	~ True	
+总体 True	长途 True	电源 True	支持 True	跑 True	来说 True	还 True	不错 True	
+很 True	价格 True	不错 True	支持 True	高 True	
+值得 True	月 True	四核 True	再 True	哈哈 True	不好 True	去 True	都 True	~ True	
+！ True	犹豫 True	左右 True	三星 True	月 True	才 True	性价比 True	确实 True	高 True	手机 True	考虑 True	价格 True	机 True	入手 True	价位 True	买 True	个人感觉 True	很 True	死 True	强 True	都 True	2500 True	
+售后 True	很 True	性价比 True	缺点 True	信号 True	设计 True	手机 True	值得 True	入手 True	做工 True	绝对 True	差 True	都 True	忍受 True	质量 True	时尚 True	机 True	不错 True	比较 True	
+问题 True	很 True	随便 True	买个 True	哎 True	
+不错 True	不 True	？ True	买 True	
+值得 True	缺点 True	买 True	机 True	一款 True	支持 True	
+机 True	
+都 True	毕竟 True	质量 True	还行 True	做工 True	价格 True	不错 True	
+开 True	总是 True	郁闷 True	.. True	手机 True	很 True	好 True	
+很 True	喜欢 True	
+信 True	感觉 True	店 True	很 True	不 True	觉得 True	性价比 True	地址 True	支持 True	信号 True	手机 True	不能 True	还 True	价格 True	打电话 True	卡 True	应该 True	高 True	网络 True	差 True	号 True	去 True	居然 True	
+总体 True	细节 True	方便 True	还 True	不够 True	系统 True	黑屏 True	
+买 True	不 True	后悔 True	
+！ True	个人 True	不能 True	不错 True	手感 True	支持 True	都 True	
+话 True	不想 True	很 True	支持 True	问题 True	买 True	想 True	别买 True	出现 True	真 True	感觉 True	机 True	都 True	其实 True	
+！ True	大 True	售后 True	很 True	小米 True	买 True	产品 True	还 True	牛 True	不错 True	力 True	其实 True	
+信 True	有点 True	号 True	后悔 True	担心 True	支持 True	感觉 True	还 True	好 True	
+影音 True	个人 True	方面 True	支持 True	机 True	好 True	比较 True	其实 True	
+游戏 True	都 True	绝对 True	担心 True	问题 True	买 True	可能 True	不错 True	
+价格 True	还行 True	合适 True	方面 True	都 True	支持 True	
+！ True	喜欢 True	产品 True	都 True	不 True	支持 True	
+完美 True	
+好 True	性价比 True	再 True	才 True	买 True	喜欢 True	还 True	高 True	不 True	小米 True	
+入手 True	最好 True	
+值得 True	死机 True	买 True	月 True	手机 True	去 True	机 True	出现 True	
+！ True	手机 True	高端 True	首选 True	
+买 True	月 True	小米 True	~ True	
+完美 True	很 True	机 True	不错 True	一款 True	
+问题 True	解决 True	买 True	
+卡 True	千万别 True	入手 True	控 True	系统 True	不 True	喜欢 True	游戏 True	
+不错 True	支持 True	
+以后 True	不要 True	消费者 True	新机 True	都 True	才 True	问题 True	软件 True	机 True	好 True	
+问题 True	值得 True	存在 True	还 True	不够 True	应该 True	
+总体 True	完美 True	很 True	表现 True	前置 True	满意 True	摄像头 True	产品 True	手机 True	机 True	好 True	真 True	
+电话 True	值得 True	游戏 True	入手 True	不 True	电影 True	！ True	不错 True	
+问题 True	很 True	不错 True	续航 True	
+买 True	想 True	都 True	不错 True	
+价位 True	配置 True	性价比 True	感觉 True	还 True	高 True	不错 True	比较 True	
+机 True	不 True	
+总体 True	买 True	不错 True	感觉 True	还 True	好 True	
+信 True	售后服务 True	很 True	方面 True	爱 True	不错 True	缺点 True	号 True	使用 True	还 True	好 True	质量 True	
+做工 True	价位 True	配置 True	四核 True	
+买 True	想 True	以后 True	更 True	后悔 True	期待 True	不 True	
+做工 True	好 True	很 True	
+手机 True	满足 True	好 True	很 True	
+好 True	呵呵 True	很 True	问题 True	买 True	喜欢 True	去 True	直接 True	不错 True	找 True	
+买 True	
+前置 True	真心 True	摄像头 True	~ True	
+值得 True	拍照 True	好 True	很 True	价位 True	配置 True	支持 True	音质 True	UI True	不错 True	来说 True	软件 True	已经 True	都 True	
+值得 True	买 True	~ True	
+值得 True	想 True	拥有 True	手机 True	不能 True	经历 True	好 True	
+有点 True	几天 True	很 True	表现 True	强大 True	拍 True	感觉 True	不好 True	手机 True	力 True	小米 True	期待 True	总体 True	值得 True	游戏 True	大 True	入手 True	牛 True	价位 True	差 True	真是 True	工作 True	音质 True	强 True	好 True	比较 True	不会 True	
+总体 True	！ True	不错 True	再 True	都 True	换机 True	
+关机 True	入手 True	很 True	系统 True	性价比 True	真想 True	不错 True	高 True	砸 True	总是 True	上市 True	
+！ True	不错 True	入手 True	
+提醒 True	流畅 True	购机 True	不错 True	网 True	喜欢 True	款 True	舒服 True	手机 True	机 True	话 True	最好 True	
+选择 True	考虑 True	不 True	款 True	
+买个 True	神机 True	不错 True	缺点 True	
+非常 True	漂亮 True	摄像头 True	满意 True	机身 True	
+总体 True	相当 True	不错 True	~ True	
+强悍 True	一款 True	漂亮 True	配置 True	系统 True	性价比 True	确实 True	不好 True	高 True	死 True	机 True	好 True	不够 True	
+坑 True	值得 True	毕竟 True	还 True	很 True	不错 True	购机 True	
+买 True	不错 True	性价比 True	不 True	去 True	经常 True	后悔 True	
+值得 True	不错 True	一款 True	完美 True	很 True	价格 True	适合 True	
+非常 True	给力 True	相当 True	价位 True	机 True	不错 True	
+！ True	双核 True	感觉 True	入手 True	几天 True	小米 True	几百块 True	
+总体 True	性价比 True	超高 True	完美 True	2500 True	
+完美 True	系统 True	
+总体 True	性价比 True	满意 True	高 True	
+非常 True	值得 True	信心 True	再次 True	坑爹 True	月 True	失去 True	失望 True	购机 True	
+慎重 True	四核 True	选择 True	喜欢 True	不能 True	机 True	好 True	款 True	
+！ True	值得 True	拥有 True	很 True	好 True	支持 True	
+起来 True	不要 True	入手 True	分 True	很 True	不 True	太小 True	喜欢 True	使用 True	大小 True	还 True	死 True	
+难道 True	都 True	四核 True	不了 True	双核 True	手机 True	还 True	强 True	不错 True	? True	
+有点 True	三星 True	万 True	电池容量 True	唉 True	都 True	才 True	觉得 True	买 True	高 True	价格 True	后悔 True	摄像头 True	
+总体 True	！ True	存在 True	不错 True	分 True	
+4.0 True	手机 True	绝对 True	强 True	系统 True	支持 True	
+性价比 True	不错 True	值得 True	
+信 True	机 True	不错 True	觉得 True	苹果 True	号 True	使用 True	强 True	都 True	
+非常 True	有点 True	起来 True	游戏 True	一会 True	去 True	严重 True	
+手机信号 True	信号 True	完美 True	几天 True	我要 True	不到 True	确实 True	使用 True	号 True	话 True	运行 True	
+很 True	性价比 True	不错 True	双核 True	值得 True	
+！ True	值得 True	更好 True	价格便宜 True	做到 True	才 True	有点 True	港行 True	认为 True	去 True	都 True	
+！ True	信 True	真心 True	好好 True	不 True	才 True	满格 True	问题 True	号 True	解决 True	优化 True	卡 True	？ True	
+！ True	值得 True	更好 True	认为 True	做到 True	去 True	再 True	
+还行 True	
+很 True	好 True	冬天 True	
+总体 True	买 True	客服 True	电源 True	都 True	性价比 True	喜欢 True	产品 True	很 True	买个 True	手机 True	去 True	不错 True	
+！ True	值得 True	拥有 True	当然 True	入手 True	
+拍照 True	效果 True	
+
+明天 True	有人 True	很 True	过去 True	支持 True	都 True	更好 True	塞班 True	软件 True	买个 True	来说 True	已经 True	好 True	？ True	
+不 True	入手 True	
+来说 True	不 True	
+信 True	！ True	换 True	三星 True	方面 True	问题 True	苹果 True	号 True	机 True	~ True	
+非常 True	值得 True	
+娱乐 True	很 True	强大 True	才 True	使用 True	不能 True	设计 True	M9 True	勉强 True	手机 True	不错 True	续航 True	UI True	做工 True	好 True	比较 True	
+
+问题 True	！ True	能力 True	
+非常 True	性价比 True	！ True	好 True	入手 True	
+毕竟 True	目前 True	性 True	使用 True	还 True	配置 True	
+平时 True	完全 True	满足 True	还 True	打电话 True	机 True	不错 True	运行 True	
+手机 True	左右 True	拥有 True	值得 True	
+买 True	以后 True	? True	不想 True	好 True	后悔 True	支持 True	
+总体 True	毕竟 True	手机 True	个人 True	好 True	不 True	性价比 True	设计 True	产品 True	高 True	才能 True	来说 True	去 True	都 True	
+好 True	高 True	完美 True	都 True	做到 True	比较 True	
+毕竟 True	目前 True	性 True	使用 True	还 True	配置 True	
+还 True	手机 True	烫 True	太 True	不错 True	担心 True	不会 True	
+问题 True	配置 True	出现 True	不会 True	
+！ True	确实 True	很 True	几天 True	问题 True	性价比 True	换 True	信号 True	高 True	小米 True	屏幕 True	店员 True	手机信号 True	退货 True	大 True	做工 True	一用 True	月 True	都 True	买 True	暂时 True	检测 True	去 True	直接 True	好 True	找 True	
+非常 True	性价比 True	存在 True	手机 True	不错 True	双核 True	
+总体 True	想 True	游戏 True	担心 True	？ True	觉得 True	不会 True	
+期待 True	好 True	产品 True	
+不清 True	前置 True	不 True	满意 True	买 True	感觉 True	还 True	手机 True	后悔 True	摄像头 True	
+很强 True	来说 True	！ True	配置 True	使用 True	
+一流 True	很棒 True	很 True	绝对 True	都 True	买 True	想 True	喜欢 True	系统 True	小米 True	屏幕 True	应该 True	好 True	其实 True	缺点 True	
+很 True	性价比 True	缺点 True	还 True	
+信 True	小米 True	四核 True	不 True	买 True	喜欢 True	感觉 True	卖 True	手机 True	后悔 True	
+相当 True	手机 True	售后 True	值得 True	
+行货 True	拍照 True	消费者 True	好 True	配置 True	不 True	买 True	可能 True	音质 True	喜欢 True	感觉 True	价格 True	后悔 True	
+！ True	喜欢 True	自带 True	都 True	拨号 True	支持 True	
+有点 True	值得 True	拍照 True	入手 True	效果 True	配置 True	缺点 True	确实 True	价格 True	不错 True	
+总体 True	非常 True	更好 True	不错 True	
+总体 True	有点 True	好 True	不 True	觉得 True	有时候 True	买 True	可能 True	来说 True	后悔 True	卡 True	
+目前 True	
+值得 True	都 True	缺点 True	使用 True	
+还 True	配置 True	不 True	感觉 True	... True	
+平时 True	完全 True	满足 True	还 True	打电话 True	机 True	不错 True	运行 True	
+！ True	值得 True	做到 True	拥有 True	4.0 True	完美 True	很 True	期待 True	不错 True	
+！ True	值得 True	贴膜 True	入手 True	不错 True	完全 True	性价比 True	秒杀 True	小米 True	还 True	喜欢 True	死 True	好 True	其实 True	
+！ True	价格 True	不要 True	完美 True	机 True	认为 True	缺点 True	买个 True	打电话 True	直接 True	
+值得 True	好 True	个人 True	很 True	难道 True	认为 True	不错 True	？ True	
+太 True	
+性价比 True	高 True	很 True	已经 True	好 True	相比 True	
+买 True	喜欢 True	不错 True	很 True	已经 True	不 True	支持 True	
+值得 True	拥有 True	强悍 True	很 True	性能 True	上市 True	
+都 True	出现 True	喜欢 True	不错 True	很 True	发烫 True	机 True	一款 True	
+总体 True	！ True	不错 True	支持 True	问题 True	解决 True	还 True	都 True	
+总体 True	值得 True	4.0 True	入手 True	再 True	问题 True	买 True	好 True	
+！ True	支持 True	
+流畅 True	很 True	不 True	坏 True	高清 True	坑 True	音质 True	不错 True	还 True	舒服 True	话 True	都 True	
+需要 True	个人 True	入手 True	很 True	太 True	再 True	当然 True	支持 True	想 True	确实 True	不好 True	手机 True	价格 True	都 True	
+总体 True	三星 True	入手 True	月 True	性能 True	性价比 True	款 True	不错 True	爱不释手 True	
+总体 True	很 True	不错 True	值得 True	拥有 True	
+买 True	想 True	很 True	已经 True	好 True	其实 True	
+值得 True	左右 True	拥有 True	缺点 True	性价比 True	之王 True	再 True	
+左右 True	不卡 True	白色 True	才 True	几天 True	不 True	觉得 True	烂 True	手机 True	来说 True	去 True	换 True	20 True	后悔 True	买 True	手汗 True	死 True	都 True	其实 True	
+只能 True	过时 True	配置 True	细节 True	不能 True	还 True	够 True	值得 True	不要 True	入手 True	都 True	绝对 True	满意 True	买 True	更 True	买个 True	机 True	做到 True	苹果 True	
+值得 True	左右 True	拥有 True	完美 True	很 True	适合 True	续航 True	感觉 True	手机 True	价格 True	都 True	比较 True	
+贴膜 True	评测 True	月 True	不 True	觉得 True	钱 True	通话 True	缺点 True	信号 True	不能 True	手机 True	价格 True	小米 True	上市 True	选择 True	信心 True	应该 True	性 True	机皇 True	过去 True	能力 True	续航 True	爱 True	？ True	很 True	去 True	机 True	做到 True	好好 True	支持 True	问题 True	盖世 True	~ True	不到 True	感觉 True	软件 True	加点 True	QQ True	有人 True	早 True	都 True	买 True	想 True	没法 True	今天 True	山寨 True	打电话 True	找 True	好 True	回来 True	兔 True	
+机 True	不 True	
+神机 True	支持 True	
+！ True	月 True	不 True	不好 True	怀疑 True	信号 True	经常 True	不能 True	设计 True	力 True	小米 True	适合 True	电板 True	游戏 True	入手 True	主流 True	去 True	机 True	只能 True	效果 True	再 True	电源 True	问题 True	换 True	方便 True	有点 True	影音 True	有人 True	都 True	差 True	暂时 True	喜欢 True	更 True	号 True	屏幕 True	好 True	一会 True	
+导致 True	4.0 True	大 True	变形 True	出现 True	配置 True	支持 True	问题 True	确实 True	屏幕 True	不错 True	够 True	
+问题 True	以后 True	游戏 True	不能 True	4.0 True	都 True	全屏 True	
+！ True	很 True	支持 True	买 True	觉得 True	实惠 True	手机 True	缺点 True	
+！ True	配置 True	体现 True	支持 True	更 True	实惠 True	来说 True	机 True	出现 True	
+有点 True	电板 True	已经 True	不 True	电源 True	回家 True	分钟 True	才能 True	确实 True	充电 True	屏幕 True	价格 True	可拆卸 True	
+值得 True	个人 True	觉得 True	买 True	
+！ True	梦想 True	月 True	i9100 True	不 True	支持 True	认为 True	完全 True	感觉 True	有点 True	值得 True	拥有 True	入手 True	买 True	后悔 True	其实 True	缺点 True	
+总体 True	值得 True	入手 True	很 True	绝对 True	忍受 True	缺点 True	来说 True	不错 True	
+总体 True	非常 True	梦想 True	完美 True	更 True	来说 True	！ True	机 True	缺点 True	
+很 True	买 True	个人感觉 True	好 True	手感 True	
+有点 True	梦想 True	毫安 True	再 True	当时 True	完全 True	问题 True	缺点 True	信号 True	不能 True	手机 True	？ True	怎么 True	完美 True	都 True	续航 True	可能 True	产品 True	遗憾 True	屏幕 True	好 True	i9100 True	
+非常 True	做到 True	已经 True	不错 True	
+毕竟 True	价格 True	入手 True	优化 True	才 True	不能 True	水货 True	直接 True	好 True	真 True	
+非常 True	值得 True	价格 True	关注 True	入手 True	
+非常 True	值得 True	
+值得 True	大 True	入手 True	one True	个人 True	确实 True	来说 True	操作 True	认为 True	
+拍照 True	不错 True	效果 True	入手 True	操作 True	确实 True	支持 True	
+喜欢 True	款 True	不错 True	支持 True	手机 True	
+！ True	神机 True	不错 True	
+懂 True	真心 True	很 True	不 True	觉得 True	喜欢 True	方便 True	充电 True	好 True	
+！ True	声音 True	梦想 True	都 True	四核 True	支持 True	充电 True	太小 True	听筒 True	不能 True	手机 True	去 True	机 True	换 True	双核 True	
+支持 True	
+入手 True	小米 True	问题 True	不错 True	感觉 True	不好 True	都 True	比较 True	其实 True	
+... True	方面 True	很 True	所有 True	世界 True	性价比 True	还 True	手机 True	不 True	小米 True	不错 True	系统 True	都 True	想 True	苹果 True	号 True	好 True	其实 True	
+设计 True	
+不 True	旗舰 True	
+期待 True	手机 True	很 True	牛 True	四核 True	好 True	比较 True	
+起来 True	再次 True	强大 True	不 True	支持 True	问题 True	觉得 True	感觉 True	来说 True	应该 True	小米 True	？ True	怎么 True	手里 True	喜欢 True	苹果 True	产品 True	山寨 True	都 True	却 True	
+开 True	毕竟 True	支持 True	感觉 True	山寨 True	不好 True	还 True	都 True	
+机 True	处理器 True	i9100 True	强大 True	不 True	差 True	
+价格 True	比较 True	
+娱乐 True	很 True	强大 True	才 True	使用 True	不能 True	设计 True	M9 True	勉强 True	手机 True	不错 True	续航 True	UI True	做工 True	好 True	比较 True	
+
+总体 True	很 True	想 True	！ True	入手 True	
+都 True	性能 True	系统 True	坏 True	维修 True	可能 True	不够 True	返厂 True	
+相当 True	更好 True	性价比 True	月 True	配置 True	不 True	买 True	棒 True	很 True	设计 True	已经 True	不错 True	再 True	
+盖世 True	音质 True	苹果 True	大 True	好 True	戴妃 True	不会 True	
+问题 True	想 True	不 True	掉漆 True	
+导致 True	效果 True	才 True	不 True	问题 True	还 True	变成 True	小米 True	？ True	掉漆 True	不要 True	游戏 True	解决方案 True	优化 True	绝对 True	不及 True	真是 True	质量 True	软件 True	800 True	都 True	却 True	
+问题 True	！ True	能力 True	
+非常 True	值得 True	
+梦想 True	不要 True	三星 True	个人 True	出现 True	不 True	支持 True	选择 True	想 True	喜欢 True	苹果 True	外国人 True	都 True	不会 True	
+水货 True	考虑 True	已经 True	不 True	I9100 True	
+强悍 True	4.0 True	不行 True	系统 True	很 True	手机 True	android True	价格 True	都 True	期待 True	出色 True	
+有点 True	开 True	以后 True	大 True	价格 True	再 True	高 True	不好 True	遗憾 True	机 True	好 True	真 True	
+好 True	表现 True	M9 True	出现 True	
+值得 True	价格 True	入手 True	
+才 True	
+！ True	服务 True	三星 True	值得 True	配置 True	才 True	期待 True	出现 True	强悍 True	拥有 True	性 True	完美 True	I9100 True	今天 True	摩托罗拉 True	软件 True	价位 True	
+！ True	问题 True	机 True	不要 True	
+毕竟 True	左右 True	i9100 True	配置 True	才 True	觉得 True	差 True	买 True	价格 True	手机 True	机 True	都 True	优秀 True	2500 True	
+！ True	神机 True	世界 True	老是 True	差 True	期待 True	直接 True	？ True	
+非常 True	手机 True	考虑 True	不错 True	！ True	
+手机 True	不错 True	上市 True	还 True	
+毕竟 True	不要 True	机型 True	很 True	选择 True	很快 True	不错 True	一款 True	机 True	都 True	上市 True	
+我要 True	买 True	苹果 True	竟然 True	不 True	回家 True	~ True	
+入手 True	大 True	M9 True	不 True	差 True	都 True	系统 True	很 True	屏幕 True	好 True	运行 True	
+！ True	神机 True	不要 True	适中 True	体现 True	才能 True	价格 True	M9 True	
+
+有点 True	游戏 True	后悔 True	网信 True	喜欢 True	号 True	不好 True	都 True	
+手机 True	打电话 True	用来 True	
+总体 True	强悍 True	入手 True	性 True	电池容量 True	方面 True	比较 True	！ True	性价比 True	时尚 True	感觉 True	手机 True	期待 True	不错 True	发烫 True	
+有点 True	怎么 True	不要 True	性价比 True	不行 True	绝对 True	厂家 True	觉得 True	问题 True	买 True	可能 True	系统 True	购机 True	出现 True	不会 True	
+解决 True	问题 True	价格 True	很 True	值得 True	
+问题 True	一款 True	不错 True	感觉 True	手机 True	
+问题 True	屏幕 True	都 True	
+！ True	很 True	不 True	不错 True	伤不起 True	手机 True	？ True	漂亮 True	伤心 True	维修 True	质量 True	月 True	? True	左右 True	好好 True	再 True	配置 True	才 True	坏 True	问题 True	不到 True	还 True	出现 True	屏幕 True	换 True	都 True	好 True	高 True	四核 True	问 True	买 True	想 True	三个 True	喜欢 True	号 True	客服 True	压力 True	不够 True	返厂 True	
+贴膜 True	别买 True	喜欢 True	售后 True	返厂 True	两次 True	
+！ True	回家 True	
+！ True	不错 True	问题 True	买 True	想 True	一款 True	感觉 True	很 True	考虑 True	都 True	
+！ True	更好 True	好好 True	都 True	不 True	钱 True	做到 True	最好 True	
+严重 True	售后 True	很 True	修 True	突然 True	手机 True	去 True	都 True	
+还 True	不错 True	
+月 True	配置 True	当时 True	以后 True	缺点 True	来说 True	手机 True	有点 True	毕竟 True	换 True	四核 True	选择 True	买 True	三个 True	苹果 True	都 True	
+问题 True	手机 True	质量 True	支持 True	
+已经 True	不错 True	支持 True	都 True	手机 True	不够 True	价格 True	做到 True	
+！ True	买 True	感觉 True	使用 True	早 True	都 True	比较 True	
+不 True	流畅 True	喜欢 True	入手 True	游戏 True	
+需要 True	很 True	不 True	支持 True	质量 True	还 True	打电话 True	都 True	
+问题 True	... True	买 True	时不时 True	去 True	配置 True	
+买 True	太 True	伤心 True	问题 True	通话 True	解决 True	手机 True	真 True	
+不错 True	
+需要 True	再 True	才 True	通话 True	不到 True	使用 True	充电 True	手机 True	屏幕 True	都 True	色彩 True	？ True	
+贴膜 True	信号 True	提示 True	很 True	不 True	店 True	手机 True	考虑 True	双核 True	花 True	才 True	四核 True	差 True	钱 True	买 True	想 True	时不时 True	软件 True	机 True	好 True	后盖 True	
+总体 True	毕竟 True	不错 True	缺点 True	
+！ True	买 True	都 True	好 True	还行 True	
+高 True	价格 True	2500 True	还 True	
+月 True	配置 True	小米 True	性价比 True	可能 True	号 True	期待 True	好 True	
+退换 True	故意 True	号 True	检测 True	才 True	对方 True	故障 True	换 True	手机 True	出现 True	打不开 True	非常 True	声音 True	以后 True	售后服务 True	都 True	差 True	外地 True	买 True	厂家 True	谨慎 True	简直 True	讲话 True	情况 True	信 True	去 True	机 True	问题 True	工作日 True	
+总体 True	！ True	不错 True	支持 True	
+问题 True	解决 True	四核 True	需要 True	？ True	
+考虑 True	机 True	感觉 True	高端 True	真 True	
+
+怎么 True	死机 True	重启 True	不 True	完全 True	两次 True	感觉 True	出现 True	打电话 True	里程碑 True	卡 True	有点 True	四核 True	绝对 True	软件 True	屏幕 True	都 True	运行 True	不会 True	
+问题 True	买 True	感觉 True	不值 True	解决 True	很 True	失望 True	
+！ True	不错 True	
+问题 True	解决 True	不错 True	售后 True	很 True	
+！ True	三星 True	盖 True	不 True	不能 True	还 True	手机 True	才能 True	来说 True	考虑 True	？ True	严重 True	换 True	选择 True	更 True	都 True	~ True	
+应该 True	款 True	
+信 True	再 True	配置 True	不 True	电源 True	重新 True	信号 True	来说 True	解决 True	还 True	考虑 True	总体 True	缺点 True	不行 True	高 True	都 True	买 True	喜欢 True	号 True	买个 True	不会 True	机 True	好 True	~ True	
+消费者 True	不好 True	还 True	标配 True	不 True	后盖 True	
+！ True	10 True	左右 True	只能 True	死机 True	检查 True	分钟 True	买 True	机 True	5 True	不到 True	号 True	情况 True	去 True	两次 True	
+！ True	失望 True	四核 True	不会 True	
+值得 True	毕竟 True	入手 True	性价比 True	还 True	价位 True	
+换 True	很 True	退掉 True	不 True	4S True	四核 True	梦想 True	期待 True	摄像头 True	
+想 True	有时 True	
+不了 True	买机 True	很 True	不 True	买 True	想 True	骗 True	都 True	其实 True	后悔 True	
+总体 True	都 True	高 True	配置 True	买 True	手机 True	来说 True	小米 True	
+智能机 True	很 True	不 True	
+买 True	不要 True	
+不了 True	玩个 True	自动 True	机 True	不 True	运行 True	
+不值 True	价位 True	好 True	确实 True	
+手机 True	
+感觉 True	不 True	售后服务 True	满意 True	大 True	
+问题 True	！ True	主板 True	
+！ True	产品 True	三星 True	很 True	不错 True	小米 True	苹果 True	
+信 True	游戏 True	觉得 True	差 True	花 True	号 True	手机 True	不值 True	打电话 True	都 True	用来 True	
+今天 True	入手 True	
+
+！ True	故障 True	不错 True	感觉 True	
+
+！ True	价格 True	
+四核 True	1.2 True	完美 True	英寸 True	前置 True	才 True	觉得 True	2G True	5 True	屏幕 True	800W True	摄像头 True	
+再 True	配置 True	不 True	性价比 True	认为 True	高 True	价格 True	上市 True	有点 True	毕竟 True	完美 True	都 True	钱 True	主流 True	相当 True	机 True	不错 True	呼 True	最好 True	
+性 True	
+总体 True	三星 True	都 True	太 True	关注 True	小米 True	一款 True	来说 True	价格 True	不错 True	不会 True	
+毕竟 True	应该 True	呵呵 True	不错 True	配置 True	不 True	哎 True	想 True	小米 True	很 True	价格 True	都 True	其实 True	
+价格 True	还 True	应该 True	小米 True	左右 True	
+买 True	小米 True	卖 True	
+不了 True	性 True	月 True	价位 True	配置 True	性价比 True	还 True	旗舰 True	手机 True	机 True	不错 True	上市 True	
+不要 True	入手 True	买 True	小米 True	不 True	都 True	性价比 True	想 True	喜欢 True	苹果 True	大小 True	失败 True	M9 True	上市 True	款 True	
+期待 True	好 True	当然 True	支持 True	
+总体 True	打死 True	不 True	系统 True	买 True	感觉 True	很 True	不好 True	还 True	！ True	价格 True	
+不好 True	千万 True	闹心 True	不要 True	买 True	
+考虑 True	
+太 True	屏幕 True	配置 True	水印 True	垃圾 True	死 True	机 True	时尚 True	运行 True	
+对方 True	维修 True	想 True	服务 True	支持 True	差 True	
+买 True	音效 True	不要 True	小米 True	还 True	
+买 True	机 True	不要 True	
+三思 True	谨慎 True	
+！ True	手机 True	垃圾 True	
+信 True	！ True	很 True	解决不了 True	问题 True	买 True	苹果 True	号 True	解决 True	还 True	都 True	其实 True	后悔 True	
+有点 True	！ True	都 True	玩具 True	冬天 True	问题 True	花钱买 True	信号 True	耽误 True	好 True	
+很 True	失望 True	哎 True	买 True	
+！ True	拍照 True	不 True	适合 True	接电话 True	手机 True	考虑 True	已经 True	双核 True	用来 True	机型 True	呵呵 True	想 True	买 True	网较 True	打电话 True	机 True	不错 True	
+！ True	差 True	配置 True	好 True	极差 True	
+相当 True	失望 True	退货 True	买 True	
+！ True	以后 True	退货 True	都 True	不 True	钱 True	买 True	缺点 True	电话费 True	
+不行 True	机了 True	得不到 True	问题 True	买 True	细节 True	苹果 True	确实 True	手机 True	解决 True	山寨 True	打电话 True	小米 True	后悔 True	
+！ True	好 True	才 True	
+问题 True	买 True	毕竟 True	解决 True	喜欢 True	
+！ True	毕竟 True	好 True	手机 True	性能 True	再 True	
+退换 True	买 True	还 True	后悔 True	哎 True	
+三思而后行 True	
+支持 True	
+严重 True	好好 True	月 True	当时 True	觉得 True	买 True	想 True	缺点 True	不能 True	坑爹 True	上市 True	
+好好 True	买 True	考虑 True	
+换 True	烫 True	问题 True	需要 True	不能 True	直接 True	都 True	不予考虑 True	
+严重 True	买 True	后悔 True	
+总体 True	换 True	检查 True	不错 True	价格 True	不 True	想 True	问题 True	买 True	忍受 True	合适 True	应该 True	好 True	后悔 True	
+游戏 True	.. True	入手 True	不 True	适合 True	随便 True	买 True	喜欢 True	感觉 True	
+坑 True	不 True	喜欢 True	个人 True	
+死 True	
+开裂 True	话 True	消费者 True	不好 True	客服 True	不 True	
+选择 True	性价比 True	不要 True	支持 True	寒心 True	
+想 True	退货 True	
+！ True	神机 True	早 True	很 True	好 True	搜 True	
+不怎么样 True	中山公园 True	服务 True	买机 True	重启 True	极差 True	问题 True	死 True	机 True	差劲 True	修手机 True	服务态度 True	太度 True	店员 True	
+！ True	不要 True	消费者 True	闹心 True	劝 True	上当 True	
+电话 True	开 True	只能 True	月 True	买来 True	再 True	几百块 True	问题 True	直接 True	不到 True	还 True	不能 True	手机 True	考虑 True	真心 True	打电话 True	非常 True	无法 True	大 True	出现 True	超级 True	回音 True	花 True	买 True	谨慎 True	杂音 True	买个 True	去 True	机 True	后悔 True	
+打电话 True	机 True	
+根本 True	客服 True	几天 True	备用机 True	两次 True	没法 True	一块 True	回来 True	不到 True	话 True	返厂 True	今天 True	
+水印 True	差 True	买 True	丢失 True	信号 True	屏幕 True	后悔 True	鼓包 True	
+！ True	服务 True	垃圾 True	产品 True	很 True	都 True	
+话 True	买 True	吃亏 True	卖 True	不要 True	千万 True	上当 True	
+不要 True	客服 True	绝对 True	没人接 True	支持 True	问题 True	买 True	质量 True	慎重考虑 True	机 True	
+呵呵 True	问题 True	去 True	明白 True	坏 True	
+都 True	
+！ True	谨慎 True	
+价格 True	手机 True	根本 True	买 True	四核 True	不 True	性价比 True	机 True	更 True	感觉 True	卖 True	高 True	应该 True	都 True	比较 True	
+！ True	烂 True	寄 True	厂里 True	当时 True	问题 True	解决 True	手机 True	总体 True	20 True	售后服务 True	回音 True	手机卡 True	剪掉 True	去 True	都 True	
+手机 True	才 True	几天 True	都 True	买来 True	
+不 True	目前 True	忽悠 True	
+！ True	后悔 True	再 True	花 True	买 True	别买 True	劝 True	烂机 True	不会 True	
+！ True	买 True	
+问题 True	软件 True	闹心 True	方面 True	真 True	
+没好 True	
+！ True	
+售后 True	多花点 True	检测 True	当地 True	不 True	收到 True	不好 True	不能 True	手机 True	出具 True	退货 True	大 True	钱 True	质量 True	找 True	去 True	机 True	解决问题 True	体系 True	上当受骗 True	千万 True	第三天 True	慌 True	发烫 True	严重 True	换 True	不要 True	烧 True	报告 True	超级 True	自动关机 True	买 True	直接 True	都 True	不会 True	
+想 True	不 True	退货 True	？ True	
+换 True	烫 True	解决不了 True	问题 True	需要 True	信号 True	还 True	不能 True	手机 True	直接 True	都 True	？ True	不予考虑 True	
+好好 True	很 True	配置 True	不 True	觉得 True	问题 True	明白 True	手机 True	？ True	突然 True	一大堆 True	不要 True	好 True	不错 True	太 True	选择 True	买 True	忍受 True	今天 True	产品 True	月 True	机 True	都 True	
+！ True	买 True	后悔 True	
+买 True	不 True	后悔 True	
+怎么 True	！ True	入手 True	唉 True	很 True	几天 True	买 True	严重 True	郁闷 True	解决 True	手机 True	屏幕 True	找 True	
+一片 True	才 True	失望 True	再 True	觉得 True	棒 True	支持 True	使用 True	考虑 True	价格 True	真 True	消费者 True	呵呵 True	惨 True	太 True	都 True	买 True	想 True	上市 True	产品 True	竟然 True	水货 True	去 True	机 True	后悔 True	比较 True	明白 True	
+！ True	值得 True	不想 True	支持 True	
+才 True	三星 True	
+千万别 True	一片 True	真心 True	不 True	买 True	产品 True	设计 True	去 True	一款 True	双核 True	
+手机 True	骗 True	都 True	不要 True	？ True	
+买 True	后悔 True	
+性价比 True	手机 True	
+手机 True	不怎么样 True	完全 True	
+情况 True	买 True	再 True	
+电话 True	超值 True	不 True	再 True	拨打 True	

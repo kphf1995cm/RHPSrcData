@@ -1,1 +1,1 @@
-MultinomialNB()	2000	0.935323383085
+BernoulliNB(alpha=1.0, binarize=0.0, class_prior=None, fit_prior=True)	1000	0.926356589147
