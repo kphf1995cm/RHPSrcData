@@ -1,1 +1,1 @@
-BernoulliNB(alpha=0.1, binarize=0.0, class_prior=None, fit_prior=True)$1100$0.859459459459
+BernoulliNB(alpha=0.1, binarize=0.0, class_prior=None, fit_prior=True)$1700$0.875675675676
