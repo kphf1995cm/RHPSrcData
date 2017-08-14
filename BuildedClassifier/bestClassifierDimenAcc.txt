@@ -1,1 +1,1 @@
-BernoulliNB(alpha=0.1, binarize=0.0, class_prior=None, fit_prior=True)$1500$0.881081081081
+MultinomialNB(alpha=0.1, class_prior=None, fit_prior=True)$1100$0.871900826446
